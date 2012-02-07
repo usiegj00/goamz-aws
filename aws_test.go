@@ -2,7 +2,8 @@ package aws_test
 
 import (
 	. "launchpad.net/gocheck"
-	"launchpad.net/goamz/aws"
+	// "launchpad.net/goamz/aws"
+	"github.com/usiegj00/goamz-aws"
 	"os"
 	"strings"
 )

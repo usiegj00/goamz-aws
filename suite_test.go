@@ -3,7 +3,8 @@ package aws_test
 import (
 	"flag"
 	"fmt"
-	"launchpad.net/goamz/aws"
+	"github.com/usiegj00/goamz-aws"
+	// "launchpad.net/goamz/aws"
 	. "launchpad.net/gocheck"
 	"net/http"
 	"net/url"
